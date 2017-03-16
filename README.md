@@ -1,5 +1,9 @@
-# Traffic_light-Driverless
-Setup Caffe on your pc.
+# Traffic_light-Driverles
+
+This repo contains the files used to recognition of traffic lights.
+
+Dpendecies :
+Caffe setup with all python bindings.
 
 Required Packges:
 1. CUDA 
