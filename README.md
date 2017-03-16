@@ -1,7 +1,7 @@
 # Traffic_light-Driverless
 Setup Caffe on your pc.
 
-Required Python Packges:
+Required Packges:
 1. CUDA 
 2. OpenCv 
 3. cuDNN
