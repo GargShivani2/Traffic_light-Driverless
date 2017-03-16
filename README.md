@@ -6,7 +6,9 @@ Required Packges:
 2. OpenCv 
 3. cuDNN
 4. Caffe-master
-*for this refer https://chunml.github.io/ChunML.github.io/project/Installing-Caffe-Ubuntu/git add .
+5. Jupyter 
+
+for installation : https://chunml.github.io/ChunML.github.io/project/Installing-Caffe-Ubuntu/git add .
 
 
 
