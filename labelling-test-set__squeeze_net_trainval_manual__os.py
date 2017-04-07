@@ -21,8 +21,8 @@ caffe.set_mode_gpu()
 
 # In[37]:
 
-model_def = "/home/sagar97/Downloads/deep-learning-traffic-lights-master/model/deploy.prototxt"
-model_weights = "/home/sagar97/Downloads/deep-learning-traffic-lights-master/model/train_squeezenet_trainval_manual_p2__iter_3817.caffemodel"
+model_def = "/home/sagar97/Downloads/Traffic_light_Driverless/deploy.prototxt"
+model_weights = "/home/sagar97/Downloads/Traffic_light_Driverless/train_squeezenet_trainval_manual_p2__iter_3817.caffemodel"
 
 
 # In[38]:
@@ -61,7 +61,7 @@ c.reshape()
 
 import os, random
 
-images_path = '/home/sagar97/Downloads/deep-learning-traffic-lights-master/images/'
+images_path = '/home/sagar97/Downloads/Traffic_light_Driverless/images/'
 
 f = random.choice(os.listdir(images_path))
 #print f
